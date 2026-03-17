@@ -8,4 +8,6 @@
 # Loop: for student in students:
 # Count: len(students)
 
-
+students = ["Alice", "Bob", "Charlie"]
+for student in students:
+    print(student)
